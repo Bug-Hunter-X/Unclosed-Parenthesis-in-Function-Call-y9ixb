@@ -1,0 +1,1 @@
+This repository contains a simple Python script demonstrating a common coding error: an unclosed parenthesis in a function call.  The script demonstrates the resulting `SyntaxError` and the solution to correct this issue. The error may seem trivial, but it can occur in more complex code and lead to difficult-to-debug problems if nested within other code blocks.
